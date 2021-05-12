@@ -57,6 +57,7 @@ static const Rule rules[] = {
 	{ "Rhythmbox",     NULL,       NULL,       	    1 << 1,       0,           0,         0,        -1 },
 	{ "Lutris",     NULL,       NULL,       	    1 << 3,       0,           0,         0,        -1 },
 	{ "Mumble",     NULL,       NULL,       	    1 << 3,       0,           0,         0,        -1 },
+	{ "Gajim",     NULL,       NULL,       	    1 << 3,       0,           0,         0,        -1 },
 	{ "Element",     NULL,       NULL,       	    1 << 4,       0,           0,         0,        -1 },
 	{ "discord",     NULL,       NULL,       	    1 << 4,       0,           0,         0,        -1 },
 	{ "Thunderbird",     NULL,       NULL,       	    1 << 5,       0,           0,         0,        -1 },
